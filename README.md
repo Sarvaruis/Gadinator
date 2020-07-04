@@ -1,4 +1,4 @@
-# Gardinator
+# Gardeninator
 A garden designing application.
 
 For database scheme, check docs for database conceptual diagram.
