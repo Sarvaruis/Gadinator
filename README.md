@@ -1,7 +1,7 @@
 # Gardeninator
 A garden designing application.
 
-For database conceptual diagram check out docs.
+For database conceptual diagram check docs out.
 ---------------------
 **Tech stack:**
 - Back-end - server:
