@@ -1,7 +1,7 @@
 # Gardeninator
 A garden designing application.
 
-For database conceptual diagram check docs out.
+For database conceptual diagram and REST API documentary check docs out.
 ---------------------
 **Tech stack:**
 - Back-end - server:
@@ -21,4 +21,6 @@ For database conceptual diagram check docs out.
 - Microsoft.VisualStudio.Web.CodeGeneration.Design 2.0.0
 - System.Drawing.Common 4.7.0
 ---------------------
-**REST API Documentary:**
+Server is hosted as windows service on localhost, port: 4990.
+Sample database is already included within the release.
+---------------------
