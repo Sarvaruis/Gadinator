@@ -1,8 +1,9 @@
 # Gardeninator REST API doc
----------------------------
 Request settings:
+
 URL base: localhost:4990/
 Headers: Content-Type - application/json
+---------------------------
 Some listed requests have body examples below.
 ---------------------------
 **Users**
