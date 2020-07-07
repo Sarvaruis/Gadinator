@@ -22,5 +22,5 @@ For database conceptual diagram and REST API documentary check docs out.
 - System.Drawing.Common 4.7.0
 ---------------------
 Server is hosted as windows service on localhost, port: 4990.
-Sample database is already included within the release.
+Sample database with test data is already included within the release.
 ---------------------
